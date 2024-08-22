@@ -1,13 +1,15 @@
 {
     "data" : [ 
         { "categoryId": "C1",
-          "categoryName": "CSPM Executive dashboard",
+          "categoryName": "CSPM Executive Dashboard",
           "widgets": [
               {
+                  "wId": "c11",
                   "name":"Cloud Accounts",
                   "image": ""
               },
               {
+                  "wId": "c12",
                   "name":"Cloud Account Risk Assesment",
                   "image": ""
               }
@@ -17,10 +19,12 @@
             "categoryName":"CWPP Dashboard",
             "widgets":[
                 {
+                    "wId": "c21",
                     "name":"Top 5 Namespace Specific Alerts",
                     "image": ""
                 },
                 {
+                    "wId": "c22",
                     "name":"Workload Alerts",
                     "image":""
                 }
@@ -30,10 +34,12 @@
             "categoryName":"Registry Scan",
             "widgets":[
                 {
+                    "wId": "c31",
                     "name":"Image Risk Assesment",
                     "image": ""
                 },
                 {
+                    "wId": "c32",
                     "name":"Image Security",
                     "image":""
                 }

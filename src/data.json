@@ -6,12 +6,12 @@
               {
                   "wId": "c11",
                   "name":"Cloud Accounts",
-                  "image": ""
+                  "image": "https://static.vecteezy.com/system/resources/thumbnails/021/114/010/small_2x/3d-pie-charts-and-diagram-icons-charts-and-graphs-pie-line-candlestick-chart-png.png" 
               },
               {
                   "wId": "c12",
                   "name":"Cloud Account Risk Assesment",
-                  "image": ""
+                  "image": "https://static.vecteezy.com/system/resources/thumbnails/021/114/010/small_2x/3d-pie-charts-and-diagram-icons-charts-and-graphs-pie-line-candlestick-chart-png.png"
               }
           ] 
         },
@@ -21,12 +21,12 @@
                 {
                     "wId": "c21",
                     "name":"Top 5 Namespace Specific Alerts",
-                    "image": ""
+                    "image": "https://static.vecteezy.com/system/resources/thumbnails/021/114/010/small_2x/3d-pie-charts-and-diagram-icons-charts-and-graphs-pie-line-candlestick-chart-png.png"
                 },
                 {
                     "wId": "c22",
                     "name":"Workload Alerts",
-                    "image":""
+                    "image":"https://static.vecteezy.com/system/resources/thumbnails/021/114/010/small_2x/3d-pie-charts-and-diagram-icons-charts-and-graphs-pie-line-candlestick-chart-png.png"
                 }
             ]
         },
@@ -36,12 +36,12 @@
                 {
                     "wId": "c31",
                     "name":"Image Risk Assesment",
-                    "image": ""
+                    "image": "https://static.vecteezy.com/system/resources/thumbnails/021/114/010/small_2x/3d-pie-charts-and-diagram-icons-charts-and-graphs-pie-line-candlestick-chart-png.png"
                 },
                 {
                     "wId": "c32",
                     "name":"Image Security",
-                    "image":""
+                    "image":"https://static.vecteezy.com/system/resources/thumbnails/021/114/010/small_2x/3d-pie-charts-and-diagram-icons-charts-and-graphs-pie-line-candlestick-chart-png.png"
                 }
             ]
         }

@@ -1,22 +1,20 @@
 .App {
   text-align: left;
-  padding: 0rem 2rem;
-  /* margin-top: -1.2rem; */
+  padding: 0rem 2rem 2rem;
   background-color: whitesmoke;
+  position: relative;
 }
+
 
 .dashboard-widgets{
   padding: 0rem 1rem;
 }
 .widget-cards{
-  /* border: 1px solid blue; */
   display: flex;
   gap: 2rem;
   flex-wrap: wrap;
-  /* justify-content: space-around; */
 }
 .widget-card{
-  /* border: 1px solid grey; */
   background-color: white;
   border-radius: 1rem;
   padding: .5rem 1rem;
@@ -24,6 +22,7 @@
   width: 22rem;
   font-size: large;
   font-weight: 500;
+  box-shadow: 2px 2px 10px gray;
 }
 .widget-btn{
   background-color: white;
@@ -33,7 +32,9 @@
   border: none;
   cursor: pointer;
   font-size: large;
+  box-shadow: 2px 2px 10px gray;
 }
+
 
 .drawer-headline{
   display: flex;
@@ -45,7 +46,7 @@
 .categories{
   display: flex;
   gap: 2rem;
-  border-bottom: 1px solid grey;
+  border-bottom: 3px solid grey;
   margin: .5rem .5rem 1rem;
 }
 .widgets{
@@ -65,4 +66,29 @@
   background-color: blue;
   color: white;
   cursor: pointer;
+}
+
+
+.Navbar{
+  background-color: white;
+  margin: 0rem -2rem;
+  padding: 0rem 2.2rem;
+}
+.navbar{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20rem
+}
+.searchBar{
+  margin: 1rem 0rem;
+  padding: 0rem 1rem;
+}
+.search-list{
+  border: 1px solid gray;
+  padding: .5rem 1rem;
+  margin: -1rem 30rem 0rem;
+  position: absolute;
+  background-color: white;
+  box-shadow: 2px 2px 10px gray;
+  line-height: 2rem;
 }
